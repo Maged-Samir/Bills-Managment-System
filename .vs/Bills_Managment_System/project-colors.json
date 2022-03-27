@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1b20d58-7a70-4700-84ed-07c70bdf2dfe": {
+      "ProjectGuid": "d1b20d58-7a70-4700-84ed-07c70bdf2dfe",
+      "DisplayName": "Bills_Managment_System",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

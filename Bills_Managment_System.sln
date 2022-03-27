@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bills_Managment_System", "Bills_Managment_System\Bills_Managment_System.csproj", "{D1B20D58-7A70-4700-84ED-07C70BDF2DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B20D58-7A70-4700-84ED-07C70BDF2DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B20D58-7A70-4700-84ED-07C70BDF2DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B20D58-7A70-4700-84ED-07C70BDF2DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B20D58-7A70-4700-84ED-07C70BDF2DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC502E57-2A34-4A91-8ADA-AF8D973A02BF}
+	EndGlobalSection
+EndGlobal
